@@ -1,7 +1,7 @@
 ## EX NO 1: Cloud-account-set-up-and-services
 
-## Name : Shailesh Kumar G
-## Reg no: 212224220093
+# Name : Shailesh Kumar G
+# Reg no: 212224220093
 
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
